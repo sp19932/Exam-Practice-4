@@ -163,6 +163,5 @@ public class MileageCalculatorNoConversion extends Application {
 
 	public static void main(String[] args) {
 		launch(args);
-	}
-
-}
+	}// end of main method
+} // end of class
